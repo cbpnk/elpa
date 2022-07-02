@@ -1,0 +1,3 @@
+(org-roam :fetcher github
+          :repo "bhuztez/org-roam"
+          :files (:defaults "extensions/*"))

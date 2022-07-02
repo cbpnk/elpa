@@ -1,0 +1,3 @@
+(emms :fetcher github
+      :repo "bhuztez/emms"
+      :files (:defaults (:exclude "doc/fdl.texi" "doc/gpl.texi")))
