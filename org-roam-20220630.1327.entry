@@ -1,5 +1,5 @@
 (org-roam .
-	  [(20220621 527)
+	  [(20220630 1327)
 	   ((emacs
 	     (26 1))
 	    (dash
@@ -13,7 +13,7 @@
 	    (magit-section
 	     (3 0 0)))
 	   "A database abstraction layer for Org-mode" tar
-	   ((:commit . "c3867619147175faf89ed8f3e90a1e67a4fd9655")
+	   ((:commit . "cc50c562dfb1b637e36c26779a0cb2866da3f3fe")
 	    (:authors
 	     ("Jethro Kuan" . "jethrokuan95@gmail.com"))
 	    (:maintainer "Jethro Kuan" . "jethrokuan95@gmail.com")
