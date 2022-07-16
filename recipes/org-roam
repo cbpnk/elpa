@@ -1,3 +1,4 @@
 (org-roam :fetcher github
+          :commit "cc50c562dfb1b637e36c26779a0cb2866da3f3fe"
           :repo "bhuztez/org-roam"
           :files (:defaults "extensions/*"))

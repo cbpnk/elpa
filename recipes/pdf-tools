@@ -1,0 +1,8 @@
+(pdf-tools
+ :fetcher github
+ :repo "bhuztez/pdf-tools"
+ :commit "24ca2c7bfdcc242654140b5a14ffc053ab8ac781"
+ :files (:defaults
+         "README"
+         ("build" "Makefile")
+         ("build" "server")))
