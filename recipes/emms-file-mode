@@ -1,0 +1,4 @@
+(emms-file-mode
+ :fetcher github
+ :commit "0070fe62b0f4239be3454434459c2425a4a2531e"
+ :repo "cbpnk/emms-file-mode")
