@@ -1,0 +1,13 @@
+(org-noter-djvu .
+		[(20220720 518)
+		 ((org-noter-core
+		   (1 4 2))
+		  (djvu
+		   (1 1 2)))
+		 "Module for DJVU" single
+		 ((:commit . "4a53d9bc38393173ebf4ed374029b13768d144ff")
+		  (:authors
+		   ("c1-g" . "char1iegordon@protonmail.com"))
+		  (:maintainer "c1-g" . "char1iegordon@protonmail.com")
+		  (:keywords "org-noter" "djvu")
+		  (:url . "https://github.com/cbpnk/org-noter-djvu"))])

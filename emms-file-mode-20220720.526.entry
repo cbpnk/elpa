@@ -1,0 +1,11 @@
+(emms-file-mode .
+		[(20220720 526)
+		 ((emms
+		   (11)))
+		 "Play Media File with EMMS" single
+		 ((:commit . "0070fe62b0f4239be3454434459c2425a4a2531e")
+		  (:authors
+		   ("c1-g" . "char1iegordon@protonmail.com"))
+		  (:maintainer "c1-g" . "char1iegordon@protonmail.com")
+		  (:keywords "emms" "multimedia")
+		  (:url . "https://github.com/cbpnk/emms-file-mode"))])

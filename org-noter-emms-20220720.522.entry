@@ -1,0 +1,13 @@
+(org-noter-emms .
+		[(20220720 522)
+		 ((org-noter-core
+		   (1 4 2))
+		  (emms-file-mode
+		   (0 1)))
+		 "Modules for EMMS" single
+		 ((:commit . "b79a77b077079949f5ddc5d7a8c298612b709848")
+		  (:authors
+		   ("c1-g" . "char1iegordon@protonmail.com"))
+		  (:maintainer "c1-g" . "char1iegordon@protonmail.com")
+		  (:keywords "org-noter" "pdf")
+		  (:url . "https://github.com/cbpnk/org-noter-emms"))])

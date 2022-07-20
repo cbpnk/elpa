@@ -1,0 +1,15 @@
+(org-noter-core .
+		[(20220720 504)
+		 ((emacs
+		   (24 4))
+		  (cl-lib
+		   (0 6))
+		  (org
+		   (9 0)))
+		 "Core functions of Org-noter" single
+		 ((:commit . "1dfae60a36601b9eceea5052b71a1b1b7b6db045")
+		  (:authors
+		   (nil . "Gonçalo Santos (aka. weirdNox@GitHub)"))
+		  (:maintainer nil . "Gonçalo Santos (aka. weirdNox@GitHub)")
+		  (:keywords "lisp" "interleave" "annotate" "external" "sync" "notes" "documents" "org-mode")
+		  (:url . "https://github.com/cbpnk/org-noter-core"))])
