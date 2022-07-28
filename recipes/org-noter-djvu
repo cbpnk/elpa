@@ -1,4 +1,4 @@
 (org-noter-djvu
  :fetcher github
- :commit "4a53d9bc38393173ebf4ed374029b13768d144ff"
+ :commit "3f7c67f60f8b48487c3a5c016c32dd899c75e41b"
  :repo "cbpnk/org-noter-djvu")

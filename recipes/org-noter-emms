@@ -1,4 +1,4 @@
 (org-noter-emms
  :fetcher github
- :commit "b79a77b077079949f5ddc5d7a8c298612b709848"
+ :commit "12948c1bfc3320055bffb9e2ef87576a4522eb83"
  :repo "cbpnk/org-noter-emms")
