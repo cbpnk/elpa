@@ -5,10 +5,10 @@
 ;; Author: c1-g <char1iegordon@protonmail.com>
 ;; Homepage: https://github.com/cbpnk/org-noter-djvu
 ;; Keywords: org-noter djvu
-;; Package-Version: 20220720.518
-;; Package-Commit: 4a53d9bc38393173ebf4ed374029b13768d144ff
-;; Package-Requires: ((org-noter-core "1.4.2") (djvu "1.1.2"))
-;; Version: 1.4.2
+;; Package-Version: 20220728.521
+;; Package-Commit: 3f7c67f60f8b48487c3a5c016c32dd899c75e41b
+;; Package-Requires: ((org-noter-core "1.5.0") (djvu "1.1.2"))
+;; Version: 1.5.0
 
 ;; This file is not part of GNU Emacs.
 

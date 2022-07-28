@@ -5,10 +5,10 @@
 ;; Author: c1-g <char1iegordon@protonmail.com>
 ;; Homepage: https://github.com/cbpnk/org-noter-emms
 ;; Keywords: org-noter pdf
-;; Package-Version: 20220720.522
-;; Package-Commit: b79a77b077079949f5ddc5d7a8c298612b709848
-;; Package-Requires: ((org-noter-core "1.4.2") (emms-file-mode "0.1"))
-;; Version: 1.4.2
+;; Package-Version: 20220728.522
+;; Package-Commit: 12948c1bfc3320055bffb9e2ef87576a4522eb83
+;; Package-Requires: ((org-noter-core "1.5.0") (emms-file-mode "0.1"))
+;; Version: 1.5.0
 
 ;; This file is not part of GNU Emacs.
 

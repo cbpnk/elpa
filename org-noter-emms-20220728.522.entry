@@ -1,11 +1,11 @@
 (org-noter-emms .
-		[(20220720 522)
+		[(20220728 522)
 		 ((org-noter-core
-		   (1 4 2))
+		   (1 5 0))
 		  (emms-file-mode
 		   (0 1)))
 		 "Modules for EMMS" single
-		 ((:commit . "b79a77b077079949f5ddc5d7a8c298612b709848")
+		 ((:commit . "12948c1bfc3320055bffb9e2ef87576a4522eb83")
 		  (:authors
 		   ("c1-g" . "char1iegordon@protonmail.com"))
 		  (:maintainer "c1-g" . "char1iegordon@protonmail.com")

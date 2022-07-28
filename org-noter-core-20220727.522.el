@@ -5,10 +5,10 @@
 ;; Author: Gonçalo Santos (aka. weirdNox@GitHub)
 ;; Homepage: https://github.com/cbpnk/org-noter-core
 ;; Keywords: lisp interleave annotate external sync notes documents org-mode
-;; Package-Version: 20220720.504
-;; Package-Commit: 1dfae60a36601b9eceea5052b71a1b1b7b6db045
+;; Package-Version: 20220727.522
+;; Package-Commit: c70eb310580fff8898bdcd9837296c137e81d8bf
 ;; Package-Requires: ((emacs "24.4") (cl-lib "0.6") (org "9.0"))
-;; Version: 1.4.2
+;; Version: 1.5.0
 
 ;; This file is not part of GNU Emacs.
 

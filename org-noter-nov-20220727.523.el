@@ -5,10 +5,10 @@
 ;; Author: c1-g <char1iegordon@protonmail.com>
 ;; Homepage: https://github.com/cbpnk/org-noter-nov
 ;; Keywords: org-noter epub
-;; Package-Version: 20220720.515
-;; Package-Commit: 059dbb0a8a94bfa510309be850c6c696279ffb2d
-;; Package-Requires: ((org-noter-core "1.4.2") (nov "0.4.0"))
-;; Version: 1.4.2
+;; Package-Version: 20220727.523
+;; Package-Commit: b0dddcf88cfd09b22c6ca5047ac39f736911cc10
+;; Package-Requires: ((org-noter-core "1.5.0") (nov "0.4.0"))
+;; Version: 1.5.0
 
 ;; This file is not part of GNU Emacs.
 

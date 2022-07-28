@@ -1,5 +1,5 @@
 (org-noter-core .
-		[(20220720 504)
+		[(20220727 522)
 		 ((emacs
 		   (24 4))
 		  (cl-lib
@@ -7,7 +7,7 @@
 		  (org
 		   (9 0)))
 		 "Core functions of Org-noter" single
-		 ((:commit . "1dfae60a36601b9eceea5052b71a1b1b7b6db045")
+		 ((:commit . "c70eb310580fff8898bdcd9837296c137e81d8bf")
 		  (:authors
 		   (nil . "Gonçalo Santos (aka. weirdNox@GitHub)"))
 		  (:maintainer nil . "Gonçalo Santos (aka. weirdNox@GitHub)")
