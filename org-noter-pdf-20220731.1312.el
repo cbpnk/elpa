@@ -5,8 +5,8 @@
 ;; Author: c1-g <char1iegordon@protonmail.com>
 ;; Homepage: https://github.com/cbpnk/org-noter-pdf
 ;; Keywords: org-noter pdf
-;; Package-Version: 20220728.520
-;; Package-Commit: 4a44f019783661854b8debb76d809fadde466f25
+;; Package-Version: 20220731.1312
+;; Package-Commit: 13a508323218d15c1d91101b69b813f4c3274385
 ;; Package-Requires: ((org-noter-core "1.5.0") (pdf-tools "1.0"))
 ;; Version: 1.5.1
 
@@ -114,6 +114,22 @@ This is needed in order to keep Emacs from hanging when doing many syncs."
        (cons (car (cdr location))  (cadar (cdr (cdr location))))))))
 
 (add-hook 'org-noter--convert-to-location-cons-hook 'org-noter-pdf-view--convert-to-location-cons)
+
+(defun org-noter-pdf-view--note-after-tipping-point (point location view)
+  (org-noter--with-valid-session
+   (when (org-noter-pdf-view--mode-supported (org-noter--session-doc-mode session))
+     (when (org-noter-pdf-view--region-p location)
+       (cons t (org-noter--note-after-tipping-point point (org-noter-pdf-view--convert-to-location-cons location) view))))))
+
+(add-hook 'org-noter--note-after-tipping-point-hook #'org-noter-pdf-view--note-after-tipping-point)
+
+(defun org-noter-pdf-view--relative-position-to-view (location view)
+  (org-noter--with-valid-session
+   (when (org-noter-pdf-view--mode-supported (org-noter--session-doc-mode session))
+     (when (org-noter-pdf-view--region-p location)
+       (org-noter--relative-position-to-view (org-noter-pdf-view--convert-to-location-cons location) view)))))
+
+(add-hook 'org-noter--relative-position-to-view-hook #'org-noter-pdf-view--relative-position-to-view)
 
 (defun org-noter-pdf-view--get-precise-info (major-mode)
   (when (org-noter-pdf-view--mode-supported major-mode)

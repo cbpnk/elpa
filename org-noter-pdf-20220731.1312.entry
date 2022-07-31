@@ -1,11 +1,11 @@
 (org-noter-pdf .
-	       [(20220728 520)
+	       [(20220731 1312)
 		((org-noter-core
 		  (1 5 0))
 		 (pdf-tools
 		  (1 0)))
 		"Modules for PDF-Tools" single
-		((:commit . "4a44f019783661854b8debb76d809fadde466f25")
+		((:commit . "13a508323218d15c1d91101b69b813f4c3274385")
 		 (:authors
 		  ("c1-g" . "char1iegordon@protonmail.com"))
 		 (:maintainer "c1-g" . "char1iegordon@protonmail.com")

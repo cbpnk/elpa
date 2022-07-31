@@ -1,5 +1,5 @@
 (emms .
-      [(20220702 602)
+      [(20220731 1314)
        ((cl-lib
 	 (0 5))
 	(nadvice
@@ -7,7 +7,7 @@
 	(seq
 	 (0)))
        "The Emacs Multimedia System" tar
-       ((:commit . "45ddcf225e0ef684c48d6b6219e7afffa8e40fca")
+       ((:commit . "67330bc6dab8bd0758cd97102bc780df740a29dc")
 	(:authors
 	 ("Jorgen Schäfer" . "forcer@forcix.cx"))
 	(:maintainer "Yoni Rabkin" . "yrk@gnu.org")
