@@ -1,4 +1,4 @@
 (org-noter-pdf
  :fetcher github
- :commit "4a44f019783661854b8debb76d809fadde466f25"
+ :commit "13a508323218d15c1d91101b69b813f4c3274385"
  :repo "cbpnk/org-noter-pdf")

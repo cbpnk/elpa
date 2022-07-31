@@ -1,5 +1,5 @@
 (org-roam
  :fetcher github
- :commit "cc50c562dfb1b637e36c26779a0cb2866da3f3fe"
+ :commit "4a873ff1bcee778f0aae2b68c8665e6f82d3d97b"
  :repo "bhuztez/org-roam"
  :files (:defaults "extensions/*"))

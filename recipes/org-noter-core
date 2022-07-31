@@ -1,4 +1,4 @@
 (org-noter-core
  :fetcher github
- :commit "c70eb310580fff8898bdcd9837296c137e81d8bf"
+ :commit "8308a3a6eda47a680b4d7c4ec7c71ae03ec46679"
  :repo "cbpnk/org-noter-core")
