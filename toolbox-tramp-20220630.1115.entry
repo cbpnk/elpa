@@ -1,0 +1,8 @@
+(toolbox-tramp .
+	       [(20220630 1115)
+		nil "tramp connection to toolbx containers" single
+		((:commit . "d31d08e960a35cf59fd0b20ac700da5af2b01d8a")
+		 (:authors
+		  ("Jeff Walsh" . "fejfighter@gmail.com"))
+		 (:maintainer "Jeff Walsh" . "fejfighter@gmail.com")
+		 (:keywords "convenience" "tools"))])
